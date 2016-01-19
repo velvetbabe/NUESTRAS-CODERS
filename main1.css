@@ -1,0 +1,73 @@
+
+
+
+h1      {
+        font-family:cursiva;
+        font-size:70px;
+        position:relative;
+        color:yellow;
+         }
+
+
+#negrito{
+	    background-color:yellow;
+	    border:1px solid yellow;
+	    width:300px;
+	    height:5px;
+	    margin:10px;
+
+
+        }
+
+#container{
+	    background-color:white;
+	    width:900px;
+	    height:200px;
+	    margin:auto;
+	    border:2px solid white;
+
+	    
+}
+
+
+.photo{
+	   
+	   margin:20px;
+	   margin-right:30px;
+	   display:inline-block;
+	   padding:auto;
+	   float:left;
+	   position: relative;
+}
+
+
+.photo1
+       {
+      
+	   margin:20px;
+	   margin-right:30px;
+	   display:inline-block;
+	   padding:auto;
+	   float:left;
+	   position:relative
+       }
+
+
+#container2{
+
+	    background-color:white;
+	    width:900px;
+	    height:300px;
+	    margin:auto;
+	    border:2px solid white;
+
+}
+
+
+p{
+	    position:relative;
+	    top:-60px;
+	    height:40px;
+	    color:yellow;
+	    text-align: center;
+}
